@@ -1,2 +1,2 @@
 # Trafalgar
-url :  https://mohammadabulwafa.github.io/trafalgar
+url :  https://mohammadabulwafa.github.io/Trafalgar/
