@@ -345,6 +345,9 @@ width:45%;
 #article .intro h2{
     margin-bottom: 73px;
 }
+#article img {
+    width: 100%;
+}
 #article .articles-list{
     margin-bottom: 60px;
 }
